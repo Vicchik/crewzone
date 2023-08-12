@@ -3,6 +3,6 @@
 
 Start with these tutorials
 
-* [Navigation](./navigation/index.md)
+* [Navigation](./gettingstarted/navigation/index.md)
 * [User Profiles](./gettingstarted/userprofiles/index.md)
-* [Creating projects](./projects/index.md)
+* [Creating projects](./gettingstarted/projects/index.md)
