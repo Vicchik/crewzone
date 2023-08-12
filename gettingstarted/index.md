@@ -3,6 +3,6 @@
 
 Start with these tutorials
 
-* [Tomcat](./navigation/index.md)
-* [Cloud](./userprofiles/index.md)
-* [Java](./projects/index.md)
+* [Navigation](./navigation/index.md)
+* [User Profiles](./userprofiles/index.md)
+* [Creating projects](./projects/index.md)
