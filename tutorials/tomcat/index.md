@@ -1,5 +1,5 @@
-# Tutorial for Tomcat
+# Setting up your User Profile
 
-Tomcat is an open source from **Apache Foundation** that is based on Java runtime and the most popular Java server right now.
+This page will demonstrate how to properly fill out your User profile
 
 
