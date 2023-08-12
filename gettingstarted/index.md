@@ -1,8 +1,7 @@
 
-# Tutorials for every technologist
+# Getting Started with CrewZone
 
-Learn about all these great technologies:
 
-[Tomcat](./tomcat/index.md)
-[Cloud](./cloud/index.md)
-[Java](./java/index.md)
+[User Profiles](./profiles/index.md)
+[Navigation](./navigation/index.md)
+[Creating Projects](./projects/index.md)
