@@ -4,9 +4,9 @@
 * [HOME](./)
 
 * [Getting Started](./gettingstarted/index)
-  * [User Profile](./tutorials/userprofiles/index)
-  * [Navigation](./tutorials/navigation/index)
-  * [Creating a Project](./projects/java/index)
+  * [User Profile](./gettingstarted/userprofiles/index)
+  * [Navigation](./gettingstarted/navigation/index)
+  * [Creating a Project](./gettingstarted/projects/index)
 
 * [About](./about/index)
 
