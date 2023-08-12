@@ -1,8 +1,8 @@
 
 # Getting Started with CrewZone
 
-Start with these tutorials
+Start with these tutorials:
 
-[User Profiles](./userprofiles/index.md)
-[Navigation](./navigation/index.md)
-[Creating Projects](./projects/index.md)
+* [User Profiles](./userprofiles/index.md)
+* [Navigation](./navigation/index.md)
+* [Creating Projects](./projects/index.md)
